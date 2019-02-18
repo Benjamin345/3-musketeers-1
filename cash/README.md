@@ -1,4 +1,13 @@
-## cash
+## CASH
+
+#Modules
+- <code>chalk</code> : let you change the style your strings.
+- <code>money</code> : JavaScript currency conversion library. 
+- <code>conf</code> : Let you create config files for your app.
+- <code>got</code> : Got is a human-friendly and powerful HTTP request library.
+- <code>meow</code> : CLI app helper.
+- <code>ora</code> : terminal spinner.
+
 
 # Goal
 - Provides you with the change rate of differents currency<br/><br/>
